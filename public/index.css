@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Andale Mono, "Courier New", Courier, monospace;
+  margin: 0.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  background: #FFF;
+  color: #000;
+}
+
+.container {
+  margin: 50px 100px;
+}
