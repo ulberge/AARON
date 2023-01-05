@@ -14,7 +14,7 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "react-scripts": "0.9.4"
+    "react-scripts": "5.0.1"
   },
   "engines": {
     "node": "8.x"
